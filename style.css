@@ -1,0 +1,48 @@
+.first{
+display: flex;
+width: 40%;
+border-style: solid;
+justify-content: center;
+align-content: space-between;
+flex-wrap: wrap;
+flex-direction: row;
+}
+
+.second{
+    display: flex;
+
+    border-style: solid;
+    
+    justify-content: flex-start;
+    
+}
+
+.third{
+    display: flex;
+
+    border-style: solid;
+    
+    justify-content: flex-start;
+}
+
+.fourth{
+    display: flex;
+
+    border-style: solid;
+    width: 40%;
+    justify-content: flex-start;
+}
+
+.fifth{
+    display: flex;
+
+    border-style: solid;
+    width: 40%;
+    justify-content: flex-start;
+}
+
+img{
+    display: block;
+    width: 30%;
+    height: 30%;
+}
